@@ -201,7 +201,6 @@ class MainActivity : AppCompatActivity() {
                 useTabBinding.ivTabLogo.setImageResource(R.drawable.ic_settings)
             }
         }
-        
         return useTabBinding.root
     }
 
