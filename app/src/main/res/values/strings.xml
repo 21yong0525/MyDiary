@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyDiary</string>
+    <string name="drawer_open">opne</string>
+    <string name="drawer_close">close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
