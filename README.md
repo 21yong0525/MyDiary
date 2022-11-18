@@ -56,6 +56,6 @@ https://user-images.githubusercontent.com/115531869/202712403-8da7eb50-cd61-40fa
 
 ㆍ 로그인&회원가입 구현
 
-https://user-images.githubusercontent.com/115531869/202710638-75afaeeb-1479-490e-ae0a-16ea7187c455.mp4
+https://user-images.githubusercontent.com/115531869/202713231-02e25773-be4f-4056-8621-18fef95247c5.mp4
 
 
