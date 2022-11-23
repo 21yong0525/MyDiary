@@ -12,6 +12,7 @@
 | OS | Windows 11 Pro |
 | Language | Kotlin |
 | Editor | Android Studio Dolphin |
+| DB | SQLite |
 | Github | https://github.com/21yong0525/MyDiary |
 
 ## 개발기간
@@ -26,7 +27,9 @@
   
   → 갤러리, 카메라 캡쳐 사진
   
-### ㆍ추가
+### ㆍ기능
+
+  → SQLiteDB - 유저 정보 저장
 
   → 체크리스트
 
@@ -46,4 +49,14 @@
 
 ## 실행 화면
 
-https://user-images.githubusercontent.com/115531869/201696154-bd141ee9-ca3c-4ce9-9774-527a790df303.mp4
+https://user-images.githubusercontent.com/115531869/202712403-8da7eb50-cd61-40fa-867b-55f2a18a4cdb.mp4
+
+## 업데이트
+
+#### 2022.11.17 
+
+ㆍ 로그인&회원가입 구현
+
+https://user-images.githubusercontent.com/115531869/202713231-02e25773-be4f-4056-8621-18fef95247c5.mp4
+
+
