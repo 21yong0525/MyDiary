@@ -38,8 +38,6 @@
         android:layout_height="wrap_content"
         android:clickable="true"
         android:hint="입력값"
-
-
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.037"

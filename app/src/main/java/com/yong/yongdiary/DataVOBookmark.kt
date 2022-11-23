@@ -7,3 +7,4 @@ data class DataVOBookmark(val inPutData: String, val date: String,
                           val check2: Boolean, val check2Name: String,
                           val check3: Boolean, val check3Name: String,
                           val img: Bitmap, val imgCheck: Boolean, val inputTime: String)
+                          

@@ -359,7 +359,6 @@ class MainActivity : AppCompatActivity() {
         customAdapterBookmark.notifyDataSetChanged()
     }
 
-
     fun openMemo(dataVO: DataVO) {
         val dialogMemo = CustomDialogMemo(binding.root.context)
         dialogMemo.binding.tvDate.text = dataVO.date

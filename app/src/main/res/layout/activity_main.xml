@@ -48,7 +48,6 @@
                     android:gravity="left"
                     android:textColor="@color/black" />
 
-
                 <TextView
                     android:id="@+id/userEmail"
                     android:layout_width="200dp"
