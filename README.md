@@ -12,6 +12,7 @@
 | OS | Windows 11 Pro |
 | Language | Kotlin |
 | Editor | Android Studio Dolphin |
+| DB | SQLite |
 | Github | https://github.com/21yong0525/MyDiary |
 
 ## 개발기간
